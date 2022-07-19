@@ -1,0 +1,61 @@
+.input{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+}
+#input1{
+    
+    border: 1px solid black;
+    padding-left: 65px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+    border-radius: 20px;
+    background-color: azure;
+    font-size: 25px;
+    margin-bottom: 10px; 
+}
+.first-row1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:5px;
+    padding-bottom: 10px;
+}
+.second-row2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:5px;
+    padding-bottom: 10px;
+}
+.third-row3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:5px;
+    padding-bottom: 10px;
+}
+.fourth-row4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:5px;
+    padding-bottom: 10px;
+}
+.fifth-row5{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:5px;
+    padding-bottom: 10px;
+}
+button{
+    width:50px;
+    font-size: 18px;
+    border: none;
+    background-color: antiquewhite;
+    font-weight: 700;
+}
+    
